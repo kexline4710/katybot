@@ -7,6 +7,7 @@ It's about time I kept track of my dotfiles and the applications I like.
 - Install [homebrew](https://brew.sh/)
 - Generate [ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/): to ssh all the things
 - mkdir ~/Development
+- Download [iTerm2 color schemes](http://iterm2colorschemes.com/): I manually import them via the iTerm2 preferences. Hardcore and Monokai Soda are two of my favorites.
 
 ## Applications
 
