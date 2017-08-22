@@ -8,6 +8,8 @@ It's about time I kept track of my dotfiles and the applications I like.
 - Generate [ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/): to ssh all the things
 - mkdir ~/Development
 - Download [iTerm2 color schemes](http://iterm2colorschemes.com/): I manually import them via the iTerm2 preferences. Hardcore and Monokai Soda are two of my favorites.
+- Install zsh `brew install zsh zsh-completions` and then install [oh-my-zsh](https://github.com/robbyrussell/oh-my-zs).
+- Install the [spaceship-zsh-theme](https://github.com/denysdovhan/spaceship-zsh-theme): Not going to lie, I still need to look through all of the crazy features in this thing.
 
 ## Applications
 
