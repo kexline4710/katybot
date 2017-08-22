@@ -6,6 +6,7 @@ It's about time I kept track of my dotfiles and the applications I like.
 - Map `caps lock` to `control` in the mac [modifier keys](https://support.apple.com/kb/PH25240?locale=en_US).
 - Install [homebrew](https://brew.sh/)
 - Generate [ssh key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/): to ssh all the things
+- mkdir ~/Development
 
 ## Applications
 
