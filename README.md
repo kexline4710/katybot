@@ -23,3 +23,8 @@ It's about time I kept track of my dotfiles and the applications I like.
 ### Fun
 - [Slack](https://slack.com/): For work and personal community chat
 - [Spotify](https://www.spotify.com/us/): Where I get the musics. I have a growing [collection of movie scores](https://open.spotify.com/user/1248745171/playlist/4UtBI0rX29svSEbDtJtAJA) that I listen to all...the...time.
+
+## Resources
+
+- The [dotphiles project](https://github.com/dotphiles/dotphiles): There seem to be a lot of really great contributors here. I used this to double check a few things that I may be missing.
+- [dotfiles](https://dotfiles.github.io/): The unofficial guide to dotfiles on GitHub.
