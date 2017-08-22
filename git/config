@@ -1,0 +1,35 @@
+#
+# My preferred git configuration
+# Read about the various options here: https://git-scm.com/book/en/v2/Customizing-Git-Git-Configuration
+#
+
+[user]
+  name = "katy exline"
+  email = "kathryn.exline@gmail.com"
+
+[color]
+  branch = always
+  diff = always
+
+[core]
+  editor = vim
+
+[alias]
+  a = add
+  b = branch
+  cano = commit --amend --no-edit
+  ci = commit
+  co = checkout
+  co0 = checkout HEAD
+  cp = cherry-pick
+  d = diff
+  l = log
+  l1 = log --pretty=oneline
+  p = pull
+  pu = push
+  pufo = push --force
+  r = rebasei
+  ri = rebase --interactive
+  sg = diff --staged
+  st = status
+  staged = diff --staged    # I know this is here twice. Old habit.
