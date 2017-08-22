@@ -1,0 +1,26 @@
+"
+" My basic vim configuration
+" A good starting point: https://dougblack.io/words/a-good-vimrc.html
+" An epic vim configuration: https://github.com/amix/vimrc
+"
+
+let $LANG='en'
+
+" Show lines and current position
+set ruler
+set number
+set cursorline
+
+" Highlight search results
+set hlsearch
+
+" The notorious tabs/spaces issue
+set tabstop=4
+set softtabstop=4
+set expandtab
+
+" Turn on file detection
+filetype indent on
+
+" Display
+syntax on
