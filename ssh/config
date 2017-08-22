@@ -1,0 +1,10 @@
+#
+# Check out OpenSSH documentation here: https://man.openbsd.org/ssh_config
+#
+
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentifyFile ~/.ssh/id_rsa
+  ForwardAgent yes
+  StrictHostKeyChecking ask
