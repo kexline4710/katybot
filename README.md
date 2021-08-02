@@ -22,6 +22,7 @@ It's about time I kept track of my dotfiles and the applications I like.
 ### Development
 
 - [iTerm](https://www.iterm2.com/): Preferred terminal emulator
+- [jq](https://stedolan.github.io/jq/download/): Command line program to parse json
 
 ### Fun
 - [Slack](https://slack.com/): For work and personal community chat
