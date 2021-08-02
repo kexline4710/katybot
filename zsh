@@ -13,6 +13,13 @@ function parse_git_branch() {
 
 PROMPT="%F{red}%n%f:%F{blue}%~%f `parse_git_branch`$ "
 
+if type brew &>/dev/null; then
+    FPATH=$(brew --prefix)/share/zsh-completions:$FPATH
+
+    autoload -Uz compinit
+    compinit
+fi
+
 ## Set up ssh keys
 
 KEYS=(
@@ -26,9 +33,9 @@ do
   ssh-add -K ~/.ssh/${key} 2> /dev/null
 done
 
-## Set up rbenv
+## Set up rbenv (turned off for the moment)
 
-eval "$(rbenv init -)"
+# eval "$(rbenv init -)"
 
 ## Misc settings
 #
